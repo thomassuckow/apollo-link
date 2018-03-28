@@ -97,6 +97,6 @@
     "prettier": "1.11.1",
     "rollup-plugin-sourcemaps": "0.4.2",
     "ts-jest": "21.2.4",
-    "typescript": "2.7.2"
+    "typescript": "2.8.1"
   }
 }
